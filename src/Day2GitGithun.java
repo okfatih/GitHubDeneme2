@@ -19,9 +19,14 @@ public class Day2GitGithun {
             git push -u origin master
       Not bu iki komutu tek seferde kullandıkrtan sonra ikinci commitlerim için sadece
       git push kullanırız
+      git log --oneline Commitlerimdeki yani versiyonlardaki durumu gösterir
 
      */
     public static void main(String[] args) {
         System.out.println("Hi sövecem ");
+        newMethod();
+    }
+
+    private static void newMethod() {
     }
 }
