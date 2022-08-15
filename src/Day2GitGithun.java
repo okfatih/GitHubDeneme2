@@ -19,5 +19,9 @@ public class Day2GitGithun {
             git push -u origin master
       Not bu iki komutu tek seferde kullandıkrtan sonra ikinci commitlerim için sadece
       git push kullanırız
+
      */
+    public static void main(String[] args) {
+        System.out.println("Hi sövecem ");
+    }
 }
